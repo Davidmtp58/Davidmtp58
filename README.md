@@ -104,6 +104,8 @@ BACK-END DEVELOPMENT
 
 Atualmente sigo buscando oportunidades em **Dados & Analytics**, enquanto desenvolvo minha formação e meus conhecimentos para também atuar em **Back-End e Engenharia de Software**.
 
+**SQL e bancos de dados são uma ponte entre essas duas áreas**, permitindo aproveitar minha experiência com dados enquanto avanço no desenvolvimento de software.
+
 ---
 
 ## `> featured_projects`
@@ -116,11 +118,11 @@ Atualmente sigo buscando oportunidades em **Dados & Analytics**, enquanto desenv
 <h3>📊 Análise de Churn — Telco Customer</h3>
 
 <p>
-Projeto de análise de dados desenvolvido para identificar padrões e fatores associados ao cancelamento de clientes no segmento de telecom.
+Projeto de análise de dados desenvolvido para identificar padrões e fatores relacionados ao cancelamento de clientes.
 </p>
 
 <p>
-A análise contempla uma base de <strong>7.043 clientes</strong>, utilizando tratamento de dados, consultas SQL, criação de métricas e visualização dos principais indicadores de churn.
+A análise utiliza uma base de <strong>7.043 clientes</strong> e envolve tratamento de dados, consultas SQL, criação de métricas e visualização de indicadores de churn.
 </p>
 
 <p>
@@ -140,11 +142,11 @@ A análise contempla uma base de <strong>7.043 clientes</strong>, utilizando tra
 <h3>📦 EstoqueApp</h3>
 
 <p>
-Projeto acadêmico desenvolvido em equipe para controle de estoque.
+Projeto acadêmico desenvolvido em equipe para gerenciamento e controle de estoque.
 </p>
 
 <p>
-O sistema contempla gerenciamento de produtos e movimentações, autenticação, regras de estoque, relatórios e integração com inteligência artificial.
+O projeto envolveu desenvolvimento de sistema, banco de dados e integração de recursos de inteligência artificial.
 </p>
 
 <p>
@@ -180,7 +182,7 @@ CURRENT FOCUS
 [>] Aprofundar SQL e bancos de dados
 [>] Aplicar Python a problemas reais
 [>] Desenvolver fundamentos em Java
-[>] Evoluir em APIs e Back-End
+[>] Fortalecer fundamentos de Back-End
 [>] Construir projetos de Dados
 [>] Construir projetos de Back-End
 
@@ -213,7 +215,7 @@ CAREER PATH
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Davidmtp58&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" alt="Contribution Activity">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Davidmtp58&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" alt="GitHub Activity Graph">
 
 </div>
 
