@@ -25,6 +25,7 @@ location: João Pessoa, PB - Brasil
 background:
   - Análise e Desenvolvimento de Sistemas
   - Pós-graduação em Análise de Dados
+  - Estudante de Ciencia da Computação
 
 focus:
   - Back-End Development
