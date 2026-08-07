@@ -1,6 +1,6 @@
 <div align="center">
 
-# David Mangueira Trajano Pessoa
+# David Mangueira
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+%26+Back-End+Development;SQL+%E2%80%A2+Python+%E2%80%A2+Java;Technology+%E2%80%A2+Data+%E2%80%A2+Software+Engineering" alt="Typing SVG" />
 
@@ -96,25 +96,21 @@ Gosto de entender como sistemas e dados funcionam por trás das aplicações, tr
 ## `> areas_of_interest`
 
 ```text
-DATA
-├── SQL
+DATA & ANALYTICS
+├── SQL & Databases
 ├── Data Analysis
 ├── Business Intelligence
 └── Data-driven problem solving
 
-BACK-END
+BACK-END DEVELOPMENT
 ├── Python
 ├── Java
 ├── Databases
-├── APIs
-└── Software Engineering
+└── Software Engineering fundamentals
 ```
-
-Dados e desenvolvimento não são caminhos isolados no meu processo de evolução.
-
-**SQL e bancos de dados funcionam como uma ponte entre essas duas áreas**, permitindo que eu aproveite minha experiência com dados enquanto avanço em desenvolvimento de software.
-
----
+```
+Atualmente sigo buscando oportunidades em **Dados & Analytics**, enquanto desenvolvo minha formação e meus conhecimentos para também atuar em **Back-End e Engenharia de Software**.
+```
 
 ## `> featured_projects`
 
