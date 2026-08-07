@@ -236,7 +236,7 @@ Software Engineer
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="(https://www.linkedin.com/in/davidmangueira/)">
+<a href="https://www.linkedin.com/in/davidmangueira/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 
