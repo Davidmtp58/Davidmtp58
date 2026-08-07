@@ -57,7 +57,7 @@ Gosto de entender como sistemas e dados funcionam por trás das aplicações, tr
 ### Core
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=database&logoColor=58A6FF" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logoColor=58A6FF" alt="SQL">
   <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/SQL_Server-161B22?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server">
 </p>
@@ -75,6 +75,13 @@ Gosto de entender como sistemas e dados funcionam por trás das aplicações, tr
   <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/Back--End_Fundamentals-161B22?style=for-the-badge&logoColor=58A6FF" alt="Back-End Fundamentals">
 </p>
 
 ### Currently Learning
