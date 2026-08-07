@@ -84,13 +84,6 @@ Gosto de entender como sistemas e dados funcionam por trás das aplicações, tr
   <img src="https://img.shields.io/badge/Back--End_Fundamentals-161B22?style=for-the-badge&logoColor=58A6FF" alt="Back-End Fundamentals">
 </p>
 
-### Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
-  <img src="https://img.shields.io/badge/Back--End_Fundamentals-161B22?style=for-the-badge&logoColor=58A6FF" alt="Back-End Fundamentals">
-</p>
-
 ---
 
 ## `> areas_of_interest`
@@ -108,9 +101,10 @@ BACK-END DEVELOPMENT
 ├── Databases
 └── Software Engineering fundamentals
 ```
-```
+
 Atualmente sigo buscando oportunidades em **Dados & Analytics**, enquanto desenvolvo minha formação e meus conhecimentos para também atuar em **Back-End e Engenharia de Software**.
-```
+
+---
 
 ## `> featured_projects`
 
