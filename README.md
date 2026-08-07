@@ -88,7 +88,6 @@ Gosto de entender como sistemas e dados funcionam por trás das aplicações, tr
 
 <p>
   <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
-  <img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logoColor=58A6FF" alt="REST APIs">
   <img src="https://img.shields.io/badge/Back--End_Fundamentals-161B22?style=for-the-badge&logoColor=58A6FF" alt="Back-End Fundamentals">
 </p>
 
