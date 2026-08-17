@@ -44,7 +44,7 @@ currently_learning:
 
 Profissional de tecnologia com formação em **Análise e Desenvolvimento de Sistemas**, pós-graduação em **Análise de Dados** e atualmente estudante de **Ciência da Computação**.
 
-Tenho trajetória e conhecimentos voltados para **Dados, SQL e Business Intelligence**, enquanto avanço na construção de uma base sólida em **desenvolvimento Back-End e Engenharia de Software**.
+Tenho trajetória e conhecimentos voltados para **Dados, SQL e Business Intelligence**, enquanto avanço na construção de uma base sólida em **Engenharia de Dados**.
 
 Atualmente concentro meus estudos em **SQL, Python e Java**, buscando aplicar esses conhecimentos em projetos práticos envolvendo dados, bancos de dados, lógica de programação e desenvolvimento de sistemas.
 
