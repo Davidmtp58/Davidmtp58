@@ -146,6 +146,36 @@ Também venho estudando **Inteligência Artificial e Machine Learning** como ár
 
 <td width="50%" valign="top">
 
+<h3>🛒 E-commerce SQL Analytics</h3>
+
+<p>
+Projeto de análise de dados desenvolvido em PostgreSQL para praticar SQL a partir de perguntas de negócio em um cenário de e-commerce.
+</p>
+
+<p>
+A base foi modelada com clientes, endereços, categorias, produtos, pedidos e itens de pedidos, permitindo análises de vendas e comportamento dos clientes.
+</p>
+
+<p>
+Entre as análises estão ticket médio, faturamento por produto e categoria, clientes recorrentes, clientes sem compras, pedidos acima da média e ranking de clientes.
+</p>
+
+<p>
+<code>PostgreSQL</code>
+<code>SQL</code>
+<code>CTEs</code>
+<code>Window Functions</code>
+<code>Data Modeling</code>
+</p>
+
+<a href="https://github.com/Davidmtp58/ecommerce-sql-analytics">
+  <strong>Ver projeto →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>📊 Análise de Churn — Telco Customer</h3>
 
 <p>
@@ -168,7 +198,11 @@ A análise utiliza uma base de <strong>7.043 clientes</strong> e envolve tratame
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
 
 <h3>📦 EstoqueApp</h3>
 
@@ -200,7 +234,7 @@ O projeto envolveu desenvolvimento de sistema, banco de dados e integração de 
 </tr>
 </table>
 
-> Novos projetos serão adicionados à medida que evoluírem e representarem melhor meu trabalho em Dados, Engenharia de Dados e Inteligência Artificial.
+> Projetos desenvolvidos para aplicar conhecimentos em Dados, SQL, bancos de dados, Engenharia de Dados e Inteligência Artificial.
 
 ---
 
