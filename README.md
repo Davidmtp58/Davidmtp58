@@ -143,6 +143,43 @@ Também venho estudando **Inteligência Artificial e Machine Learning** como ár
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+<h3>🗂️ Despachante Control — SQL Server e Gestão de Serviços</h3>
+
+<p>
+Sistema web criado a partir de uma necessidade real de um despachante documentalista: organizar clientes, veículos, serviços, despesas e resultados financeiros antes controlados em registros físicos.
+</p>
+
+<p>
+<strong>Banco de dados implementado no SQL Server</strong>, com modelagem relacional, regras de integridade, JOINs, agregações, Views, Stored Procedure e índices. O projeto inclui indicadores de custos e resultado líquido por serviço, sem armazenar valores calculados de forma redundante.
+</p>
+
+<p>
+<strong>Frontend demonstrativo desenvolvido em React e TypeScript</strong>, com nove áreas e dados simulados em memória. A API, a autenticação real e a integração com o SQL Server são próximas etapas — a aplicação ainda não persiste dados pelo frontend.
+</p>
+
+<p>
+<code>SQL Server</code>
+<code>T-SQL</code>
+<code>Data Modeling</code>
+<code>Views</code>
+<code>Stored Procedures</code>
+<code>React</code>
+<code>TypeScript</code>
+</p>
+
+<a href="https://github.com/Davidmtp58/DespachanteControl">
+  <strong>Ver projeto →</strong>
+</a>
+
+<br><br>
+<sub>Projeto de portfólio e extensão acadêmica • Banco e interface demonstrativa implementados; integração planejada.</sub>
+
+</td>
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
