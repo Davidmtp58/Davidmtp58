@@ -45,7 +45,6 @@ currently_learning:
   - Data Engineering
   - Artificial Intelligence
   - Machine Learning
-  - Java — estudos acadêmicos
 ```
 
 Profissional de **Dados e Business Intelligence**, com experiência prática em análise de dados, SQL, Excel e IBM Cognos, atuando na transformação de dados em indicadores e informações para apoio à tomada de decisão.
